@@ -1,0 +1,89 @@
+<<<<<<<<<<<<<<<<<* ADMIN *>>>>>>>>>>>>>>>>>>>>>>
+
+EMAIL ACC.
+
+user:lionsclubsanpedrod301a2@gmail.com
+pass:lionsclub4023
+
+*************************************
+
+LOGIN ACC.
+
+user:admin
+pass:admin123
+
+*************************************
+PAYPAL ACC DEVELOPER.
+
+Developer URL:https://developer.paypal.com/developer/accounts
+
+user:lionsclubsanpedrod301a2@gmail.com
+pass:Lionsclub301
+
+*************************************
+
+SAND BOX ACC INFO ADMIN.
+
+Sandbox URL:https://sandbox.paypal.com
+
+user:lionsclubsanpedrod301a2@gmail.com
+pass:qwertyuiop
+
+*************************************
+
+<<<<<<<<<<<<<<<<<* MEMBERS *>>>>>>>>>>>>>>>>>>>>>>
+
+LOGIN ACC.
+
+user:kristian.frialde@gmail.com
+pass:qwertyuiop
+
+user:jllsibunga.spcpc@gmail.com
+pass:qwertyuiop
+
+
+user:markanasarias6@gmail.com
+pass:qwertyuiop
+
+*************************************
+
+SAND BOX ACC INFO MEMBERS.
+
+Sandbox URL:https://www.sandbox.paypal.com/
+
+<----------kristian--------->
+
+user:kristian.frialde@gmail.com
+pass:qwertyuiop
+acc:231001
+
+
+<----------Sibunga--------->
+
+user:jllsibunga.spcpc@gmail.com
+pass:qwertyuiop
+acc:231002
+
+
+<----------Mark--------->
+
+user:markanasarias6@gmail.com
+pass:qwertyuiop
+acc:231003
+
+
+*************************************
+
+blue = rgb(0,123,255)
+yellow = rgb(255,193,7)
+
+
+
+
+
+
+
+
+
+
+
